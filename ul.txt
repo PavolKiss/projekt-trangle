@@ -1,0 +1,5 @@
+pole field [3],[3]
+vygenerova náhodné èísla 0 - 1
+vypísa na obrazovku
+vypísa èi niektorı z nich vyhral - ktorı
+hladat v kadom riadku èi sú 3 èísla, diagonálne, stlpci
